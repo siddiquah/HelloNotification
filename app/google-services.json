@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "202199274628",
+    "project_id": "promisenotification-73a33",
+    "storage_bucket": "promisenotification-73a33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202199274628:android:60a24563523e20f5e39ed1",
+        "android_client_info": {
+          "package_name": "com.example.hellonotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202199274628-hlf87t76tr0getrc29afkec7hgvphf6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlf_Y9GQgzanC2GPE2OpXae7r0ETZPWpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202199274628-hlf87t76tr0getrc29afkec7hgvphf6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202199274628:android:d0bf04658118542ee39ed1",
+        "android_client_info": {
+          "package_name": "tech.hamid.promisenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202199274628-hlf87t76tr0getrc29afkec7hgvphf6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlf_Y9GQgzanC2GPE2OpXae7r0ETZPWpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202199274628-hlf87t76tr0getrc29afkec7hgvphf6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
